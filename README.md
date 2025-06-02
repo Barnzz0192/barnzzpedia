@@ -1,2 +1,3 @@
-# barnzzpedia
-SUNTIK ALL SOSMED
+# BarnzzPedia
+
+Project React + Tailwind untuk BarnzzPedia.
