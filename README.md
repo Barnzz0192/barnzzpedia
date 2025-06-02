@@ -1,0 +1,2 @@
+# barnzzpedia
+SUNTIK ALL SOSMED
